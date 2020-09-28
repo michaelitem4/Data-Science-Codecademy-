@@ -1,1 +1,4 @@
-
+SELECT name AS 'Binge' 
+FROM movies;
+SELECT imdb_rating AS 'IMDb' 
+FROM movies;
