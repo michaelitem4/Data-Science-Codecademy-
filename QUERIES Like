@@ -1,1 +1,3 @@
-
+SELECT * 
+FROM movies 
+WHERE name LIKE "SE_en";
